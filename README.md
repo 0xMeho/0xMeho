@@ -7,7 +7,7 @@
 
 <div align=center>
         <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
+        <p>Loading...</p>
     </div>
 
     
