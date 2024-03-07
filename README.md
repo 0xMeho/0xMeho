@@ -5,10 +5,13 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!" /> </p>
 <br>
 
-<div align=center>
-        <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" alt="GitHub Octocat Logo" height="100">
-        <p>Loading...</p>
-    </div>
 
+<div align="center">
+    <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" alt="GitHub Octocat Logo" height="100">
+    <p></p>
+    <div style="text-align: center;">
+        <img src="https://readme-typing-svg.demolab.com?font=Anta&duration=7500&pause=5&color=33E62B&random=false&width=435&lines=Loading.+.+." alt="Typing SVG">
+    </div>
+</div>
     
 
