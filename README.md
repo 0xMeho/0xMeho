@@ -10,7 +10,7 @@
     <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" alt="GitHub Octocat Logo" height="100">
     <p></p>
     <div style="text-align: center;">
-        <img src="https://readme-typing-svg.demolab.com?font=Anta&duration=7500&pause=5&color=33E62B&random=false&width=435&lines=Loading.+.+." alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Anta&duration=7500&pause=5&color=33E62B&random=false&width=435&lines=L+O+A+D+I+N+G+.+.+." alt="Typing SVG"">
     </div>
 </div>
     
