@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Cyber Security Analyst </h3>
 <br>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!" /> </p>
-<br>
+    <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!" /> </p>
+    <br>
 
 
-<div align="center">
+    <div align="center">
     <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" alt="GitHub Octocat Logo" height="100">
     <p></p>
     <div style="text-align: center;">
